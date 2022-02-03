@@ -15,7 +15,7 @@ Tout repas japonais digne de ce nom est accompagné d'une soupe miso (味噌汁 
 
  
 
-[![Soupe miso]({{ site.url }}{{ site.baseurl }}/images/2005/04/misoshiru.thumbnail.jpg)](http://www.japonophile.com/wp-content/uploads/2004-2006/misoshiru.jpg "Soupe miso")
+[![Soupe miso]({{ site.url }}{{ site.baseurl }}/images/2005/04/misoshiru.thumbnail.jpg)]({{ site.url }}{{ site.baseurl }}/images/2005/04/misoshiru.jpg "Soupe miso")
 
 Soupe miso
 

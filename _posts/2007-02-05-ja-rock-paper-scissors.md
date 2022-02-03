@@ -35,7 +35,7 @@ status: publish
 
 ### 子供のゲームだけではない
 
-[![じゃんけん]({{ site.url }}{{ site.baseurl }}/images/2007/02/img_4249.thumbnail.JPG)](http://www.japonophile.com/wp-content/uploads/2007/01/img_4249.JPG "じゃんけん")
+[![じゃんけん]({{ site.url }}{{ site.baseurl }}/images/2007/02/img_4249.thumbnail.JPG)]({{ site.url }}{{ site.baseurl }}/images/2007/02/img_4249.JPG "じゃんけん")
 
 お買い得品を買う権利に戦っている顧客。
 

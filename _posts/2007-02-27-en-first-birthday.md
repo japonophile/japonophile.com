@@ -11,7 +11,7 @@ status: publish
 
 Japanese have a very special custom when a baby celebrate its first birthday.
 
-[![Mochi]({{ site.url }}{{ site.baseurl }}/images/2007/02/img_7467.miniature.JPG)](http://www.japonophile.com/wp-content/uploads/2007/02/img_7467.JPG "Mochi")
+[![Mochi]({{ site.url }}{{ site.baseurl }}/images/2007/02/img_7467.miniature.JPG)]({{ site.url }}{{ site.baseurl }}/images/2007/02/img_7467.JPG "Mochi")
 
 Mochi for the first birthday
 
@@ -21,7 +21,7 @@ The mochi is packed in a beautiful Japanese paper (_washi_ 和紙, see picture),
 
 Some of you are probably shocked and think: "What a shame! Let a poor baby carry 3 kilos of mochi!", but I heard several explanations to this curious custom.
 
-[![Mochi is packed in a towel (furoshiki)]({{ site.url }}{{ site.baseurl }}/images/2007/02/mochi-packing.miniature.jpg)](http://www.japonophile.com/wp-content/uploads/2007/02/mochi-packing.jpg "Mochi is packed in a towel (furoshiki)")
+[![Mochi is packed in a towel (furoshiki)]({{ site.url }}{{ site.baseurl }}/images/2007/02/mochi-packing.miniature.jpg)]({{ site.url }}{{ site.baseurl }}/images/2007/02/img_7467.JPG "Mochi is packed in a towel (furoshiki)")
 
 Mochi is packed in a towel (furoshiki)
 
@@ -29,7 +29,7 @@ Mochi is packed in a towel (furoshiki)
 - The quantity of "10 go" of mochi corresponds to 1 _sho_ (一升 _isshô_, that is about 1800cc). This quantity _isshô_, is pronounced the same way as the expression "for the whole life" (written differently, though: 一生), and expresses the wish that the child will always have something to eat.
 - Another explanation, from someone from _Hokkaido_ (北海道): if the child is a girl, this custom would be aimed at preventing her to find a husband living far away from her parents.
 
-[![The child carries mochi on the front and on the back]({{ site.url }}{{ site.baseurl }}/images/2007/02/mochi-carrying.miniature.jpg)](http://www.japonophile.com/wp-content/uploads/2007/02/mochi-carrying.jpg "The child carries mochi on the front and on the back")
+[![The child carries mochi on the front and on the back]({{ site.url }}{{ site.baseurl }}/images/2007/02/mochi-carrying.miniature.jpg)]({{ site.url }}{{ site.baseurl }}/images/2007/02/img_7467.JPG "The child carries mochi on the front and on the back")
 
 The child carries mochi on the front and on the back
 

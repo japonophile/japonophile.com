@@ -15,13 +15,13 @@ Envie de boire un verre entre amis? Au Japon, plutôt qu'un bar ou un café, c'e
 
  
 
-[![ Aujourd'hui, les izakaya sont plus que des bars: on peut souvent y déguster de bonnes choses]({{ site.url }}{{ site.baseurl }}/images/2005/11/izakaya.thumbnail.jpg)](http://www.japonophile.com/wp-content/uploads/2004-2006/izakaya.jpg " Aujourd'hui, les izakaya sont plus que des bars: on peut souvent y déguster de bonnes choses")
+[![ Aujourd'hui, les izakaya sont plus que des bars: on peut souvent y déguster de bonnes choses]({{ site.url }}{{ site.baseurl }}/images/2005/11/izakaya.thumbnail.jpg)]({{ site.url }}{{ site.baseurl }}/images/2005/11/izakaya.jpg " Aujourd'hui, les izakaya sont plus que des bars: on peut souvent y déguster de bonnes choses")
 
 Aujourd'hui, les izakaya sont plus que des bars: on peut souvent y déguster de bonnes choses
 
 _Izakaya_ signifie littéralement un établissement (屋 _ya_) ou l'on sert de l'alcool (du saké 酒 _zaka_). A l'origine, un _izakaya_ n'était en effet rien de plus que cela: un endroit ou l'on pouvait boire pour pas cher. Souvent reconnaissables à leur lanterne rouge (_akai chochin_ 赤いちょうちん) ces établissements ne permettaient pas vraiment de manger, mais se contentaient de servir des _yaki-tori_ 焼き鳥 (petites brochettes de poulet), de l'_o-den_, des _kushi-age_ 串揚げ (brochettes de légumes et viande frites). Bref, un accompagnement pour l'alcool (appelé _tsumami_ 摘み), mais pas un vrai repas. Le public fréquentant les _izakaya_ était donc essentiellement des hommes, qui s'y rendaient en groupe, entre collègues par exemple, pour s'abreuver après une longue journee de travail harassant.
 
-[![ Akai chôchin: lanterne rouge souvent arborée par les izakaya]({{ site.url }}{{ site.baseurl }}/images/2005/11/akaichochin.thumbnail.jpg)](http://www.japonophile.com/wp-content/uploads/2004-2006/akaichochin.jpg " Akai chôchin: lanterne rouge souvent arborée par les izakaya")
+[![ Akai chôchin: lanterne rouge souvent arborée par les izakaya]({{ site.url }}{{ site.baseurl }}/images/2005/11/akaichochin.thumbnail.jpg)]({{ site.url }}{{ site.baseurl }}/images/2005/11/izakaya.jpg " Akai chôchin: lanterne rouge souvent arborée par les izakaya")
 
 Akai chôchin: lanterne rouge souvent arborée par les izakaya
 

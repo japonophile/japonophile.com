@@ -15,7 +15,7 @@ Japan is probably one of the countries with the highest number of vending machin
 
  
 
-[![Coffee and tea vending machine]({{ site.url }}{{ site.baseurl }}/images/2004/06/jihanki.thumbnail.jpg)](http://www.japonophile.com/wp-content/uploads/2004-2006/jihanki.jpg "Coffee and tea vending machine")
+[![Coffee and tea vending machine]({{ site.url }}{{ site.baseurl }}/images/2004/06/jihanki.thumbnail.jpg)]({{ site.url }}{{ site.baseurl }}/images/2004/06/jihanki.jpg "Coffee and tea vending machine")
 
 Coffee and tea vending machine
 

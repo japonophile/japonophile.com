@@ -35,7 +35,7 @@ Other variations are more complex, like _janken-poi-poi_ (where each player show
 
 ### Not only a children game
 
-[![Rock paper scissors]({{ site.url }}{{ site.baseurl }}/images/2007/02/img_4249.thumbnail.JPG)](http://www.japonophile.com/wp-content/uploads/2007/01/img_4249.JPG "Rock paper scissors")
+[![Rock paper scissors]({{ site.url }}{{ site.baseurl }}/images/2007/02/img_4249.thumbnail.JPG)]({{ site.url }}{{ site.baseurl }}/images/2007/02/img_4249.JPG "Rock paper scissors")
 
 Clerk playing "janken" with customers to sell them strongly discounted items.
 

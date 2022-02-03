@@ -35,7 +35,7 @@ D'autres variantes sont plus complexes, comme le _janken-poi-poi_ (où chaque pa
 
 ### Pas qu'un jeu d'enfant
 
-[![Pierre papier ciseaux]({{ site.url }}{{ site.baseurl }}/images/2007/02/img_4249.thumbnail.JPG)](http://www.japonophile.com/wp-content/uploads/2007/01/img_4249.JPG "Pierre papier ciseaux")
+[![Pierre papier ciseaux]({{ site.url }}{{ site.baseurl }}/images/2007/02/img_4249.thumbnail.JPG)]({{ site.url }}{{ site.baseurl }}/images/2007/02/img_4249.JPG "Pierre papier ciseaux")
 
 Vendeur jouant à pierre papier ciseaux avec des clients, pour la vente d'articles à prix cassés.
 

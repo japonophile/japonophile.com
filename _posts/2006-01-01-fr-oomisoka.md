@@ -17,7 +17,7 @@ La veille de l'An Nouveau (大晦日 _oomisoka_), la plupart des Japonais passen
 
 Alors qu'en Europe ou aux Etats-Unis on passe plutot Noël en famille et le réveillon à faire la fête entre amis, au Japon, c'est l'inverse: Noël ne représente pas grand chose au Japon (souvent, on va s'éclater avec ses amis, ou on passe Noël avec son copain ou sa copine), mais le Nouvel An (お正月　_o-shôgatsu_), c'est une fête importante.
 
-[![Participants au 56ème Kohaku Uta Gassen (concours de chant organisé lors du réveillon au Japon)]({{ site.url }}{{ site.baseurl }}/images/2006/01/kohakuutagassen.thumbnail.jpg)](http://www.japonophile.com/wp-content/uploads/2004-2006/kohakuutagassen.jpg "Participants au 56ème Kohaku Uta Gassen (concours de chant organisé lors du réveillon au Japon)")
+[![Participants au 56ème Kohaku Uta Gassen (concours de chant organisé lors du réveillon au Japon)]({{ site.url }}{{ site.baseurl }}/images/2006/01/kohakuutagassen.thumbnail.jpg)]({{ site.url }}{{ site.baseurl }}/images/2006/01/kohakuutagassen.jpg "Participants au 56ème Kohaku Uta Gassen (concours de chant organisé lors du réveillon au Japon)")
 
 Participants au 56ème Kohaku Uta Gassen (concours de chant organisé lors du réveillon au Japon)
 

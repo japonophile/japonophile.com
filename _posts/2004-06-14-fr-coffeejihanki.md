@@ -15,7 +15,7 @@ A mon avis, le Japon doit compter parmi les pays où le nombre de distributeurs 
 
  
 
-[![Distributeur automatique de café et thé]({{ site.url }}{{ site.baseurl }}/images/2004/06/jihanki.thumbnail.jpg)](http://www.japonophile.com/wp-content/uploads/2004-2006/jihanki.jpg "Distributeur automatique de café et thé")
+[![Distributeur automatique de café et thé]({{ site.url }}{{ site.baseurl }}/images/2004/06/jihanki.thumbnail.jpg)]({{ site.url }}{{ site.baseurl }}/images/2004/06/jihanki.jpg "Distributeur automatique de café et thé")
 
 Distributeur automatique de café et thé
 

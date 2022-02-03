@@ -17,7 +17,7 @@ On March 3, in Japan, takes place the _Hina Matsuri_ ひな祭り, the "Dolls Fe
 
 On this day, girls have the place of honor in Japan (so they are not jealous on May 5, the ["Children's Day"]({% post_url 2004-05-05-en-koinobori %}), dedicated to the boys!).
 
-[![Hina Matsuri dolls]({{ site.url }}{{ site.baseurl }}/images/2004/06/hinaningyo.thumbnail.jpg)](http://www.japonophile.com/wp-content/uploads/2004-2006/hinaningyo.jpg "Hina Matsuri dolls")
+[![Hina Matsuri dolls]({{ site.url }}{{ site.baseurl }}/images/2004/06/hinaningyo.thumbnail.jpg)]({{ site.url }}{{ site.baseurl }}/images/2004/06/hinaningyo.jpg "Hina Matsuri dolls")
 
 Hina Matsuri dolls
 
@@ -29,7 +29,7 @@ There is a common belief, that if the _hina_ dolls are not promptly put back aft
   
   
 
-[![The face of a Hina doll is its soul]({{ site.url }}{{ site.baseurl }}/images/2004/06/smallhinaningyo.thumbnail.jpg)](http://www.japonophile.com/wp-content/uploads/2004-2006/smallhinaningyo.jpg "The face of a Hina doll is its soul")
+[![The face of a Hina doll is its soul]({{ site.url }}{{ site.baseurl }}/images/2004/06/smallhinaningyo.thumbnail.jpg)]({{ site.url }}{{ site.baseurl }}/images/2004/06/hinaningyo.jpg "The face of a Hina doll is its soul")
 
 The face of a Hina doll is its soul
 

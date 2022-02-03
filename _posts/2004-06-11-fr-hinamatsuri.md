@@ -17,7 +17,7 @@ Le 3 mars, au Japon, c'est le _Hina Matsuri_ ひな祭り, le "Festival des Poup
 
 ...pour ne pas faire de jalouses le 5 mai, lors de la ["Fête des Enfants"]({% post_url 2004-05-05-fr-koinobori %})!
 
-[![Poupées du Hina Matsuri]({{ site.url }}{{ site.baseurl }}/images/2004/06/hinaningyo.thumbnail.jpg)](http://www.japonophile.com/wp-content/uploads/2004-2006/hinaningyo.jpg "Poupées du Hina Matsuri")
+[![Poupées du Hina Matsuri]({{ site.url }}{{ site.baseurl }}/images/2004/06/hinaningyo.thumbnail.jpg)]({{ site.url }}{{ site.baseurl }}/images/2004/06/hinaningyo.jpg "Poupées du Hina Matsuri")
 
 Poupées du Hina Matsuri
 
@@ -25,7 +25,7 @@ Les petites filles japonaises se font offrir dès leur plus jeune âge des poup�
 
 A ce propos, on dit que si les poupées ne sont pas promptement rangées après la fête, la jeune fille prendra plus de temps pour se trouver un mari.
 
-[![Le visage d'une poupée Hina est son ame]({{ site.url }}{{ site.baseurl }}/images/2004/06/smallhinaningyo.thumbnail.jpg)](http://www.japonophile.com/wp-content/uploads/2004-2006/smallhinaningyo.jpg "Le visage d'une poupée Hina est son ame")
+[![Le visage d'une poupée Hina est son ame]({{ site.url }}{{ site.baseurl }}/images/2004/06/smallhinaningyo.thumbnail.jpg)]({{ site.url }}{{ site.baseurl }}/images/2004/06/hinaningyo.jpg "Le visage d'une poupée Hina est son ame")
 
 Le visage d'une poupée Hina est son ame
 
