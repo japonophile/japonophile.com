@@ -43,6 +43,6 @@ But the most funny thing, is that in Japan, the "rock-paper-scissors" game is no
 
 Another strange story. I have been told that a game of _"janken"_ had once decided the future of three students. They were fresh graduates, and looking for their first employment. They were from the same lab and wanted to apply for a job in the same big company. Now it is common in Japan, that universities "recommends" some (very good) students to the big companies, to simplify the new graduate selection process. However, since there was only one vacant position and the grades of the students did not allow to choose one of them, they let their future be decided by... a game of _"janken"_!.
 
-Seems crazy? Anyway, if you are to let the fortune tell, better a game of _"janken"_ than an _[amida-kuji](http://www.japonophile.com/article_kuji_en.html)_, don't you think so?
+Seems crazy? Anyway, if you are to let the fortune tell, better a game of _"janken"_ than an _[amida-kuji]({% post_url 2004-10-31-fr-kuji %})_, don't you think so?
 
 

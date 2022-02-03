@@ -21,7 +21,7 @@ For example (and this is probably the meaning it had when I heard it for the fir
 
 ### Did you know it?
 
-Some people will write "4649" for _yoroshiku_ (_yo\[n\]-ro\[ku\]-shi-k\[y\]u_). And deliquents (_bosozoku_ 暴走族) like to write it phonetically in _[kanji](http://www.japonophile.com/article_kanji_en.html)_. For example: 四路死苦 ...
+Some people will write "4649" for _yoroshiku_ (_yo\[n\]-ro\[ku\]-shi-k\[y\]u_). And deliquents (_bosozoku_ 暴走族) like to write it phonetically in _[kanji]({% post_url 2005-03-12-fr-kanji %})_. For example: 四路死苦 ...
 
 A completely different situation where the same expression is used is when formulating a request or asking a favor. For example: "Please don't use you cellular phone on the train ... _yoroshiku o-negai shimasu_ ... please!"
 
