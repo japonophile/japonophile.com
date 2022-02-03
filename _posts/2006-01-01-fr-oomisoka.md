@@ -39,8 +39,8 @@ Le célèbre chanteur japonais: Kitajima Saburô
 
 Le _Kohaku Gassen_ se termine a 23:45, (c'est souvent quand le célèbre chanteur _Kitajima Saburô_ 北島三郎 fait son entrée que l'on sent approcher la fin du coucours... et de l'année!). Puis, on sonne 108 coups de cloche pour le passage d'année (vu le nombre de coups à donner, on a bien besoin d'un quart d'heure pour arriver au bout!), le dernier coup de cloche marquant l'An Nouveau.
 
-C'est ici que vous pourrez utiliser à bon escient la formule "[Akemashite omedetou gozaimasu]({% post_url 2005-01-04-fr-nengajo %}), kotoshi mo [yoroshiku onegai shimasu]({% post_url 2005-01-04-fr-nengajo %})" 明けましておめでとうございます，今年もよろしくお願いします.
+C'est ici que vous pourrez utiliser à bon escient la formule "[Akemashite omedetou gozaimasu]({% post_url 2005-01-04-fr-nengajo %}), kotoshi mo [yoroshiku onegai shimasu]({% post_url 2004-05-23-fr-yoroshiku %})" 明けましておめでとうございます，今年もよろしくお願いします.
 
-Enfin, voici le temps venu de manger le _"toshi-koshi soba"_ 年越しそば, c'est-à-dire le "soba du passage d'année". La longueur du [soba]({% post_url 2005-01-04-fr-nengajo %}) symbolise la longue vie, que l'on se souhaite pour commencer l'An Nouveau.
+Enfin, voici le temps venu de manger le _"toshi-koshi soba"_ 年越しそば, c'est-à-dire le "soba du passage d'année". La longueur du [soba]({% post_url 2005-05-06-fr-soba %}) symbolise la longue vie, que l'on se souhaite pour commencer l'An Nouveau.
 
 

@@ -23,7 +23,7 @@ Ce château, datant du XVIème siècle, fut d'abord construit pour la guerre. On
 
 Mais une grande différence avec nos châteaux est que le château de Matsumoto, comme la plupart des châteaux japonais, est essentiellement construit en bois. (Et cette fois-ci, contrairement au [Château d'Osaka]({% post_url 2004-04-26-fr-osakajo %}), il ne s'agit pas d'une reproduction en béton!).
 
-[![Entrée du château]({{ site.url }}{{ site.baseurl }}/images/2005/06/matsumotojo2.thumbnail.jpg)]({{ site.url }}{{ site.baseurl }}/images/2005/06/matsumotojo1.jpg "Entrée du château")
+[![Entrée du château]({{ site.url }}{{ site.baseurl }}/images/2005/06/matsumotojo2.thumbnail.jpg)]({{ site.url }}{{ site.baseurl }}/images/2005/06/matsumotojo2.jpg "Entrée du château")
 
 Entrée du château
 
@@ -33,7 +33,7 @@ La visite de l'intérieur du château est vraiment intéressante: l'on y parcour
 
 Et à présent une question a 5 yens: combien le château de Matsumoto compte-t-il d'étages? Les plus observateurs me diront: "5, car il y a 5 toitures".
 
-[![Intérieur du château de Matsumoto, tout en bois]({{ site.url }}{{ site.baseurl }}/images/2005/06/matsumotojo3.thumbnail.jpg)]({{ site.url }}{{ site.baseurl }}/images/2005/06/matsumotojo1.jpg "Intérieur du château de Matsumoto, tout en bois")
+[![Intérieur du château de Matsumoto, tout en bois]({{ site.url }}{{ site.baseurl }}/images/2005/06/matsumotojo3.thumbnail.jpg)]({{ site.url }}{{ site.baseurl }}/images/2005/06/matsumotojo3.jpg "Intérieur du château de Matsumoto, tout en bois")
 
 Intérieur du château de Matsumoto, tout en bois
 

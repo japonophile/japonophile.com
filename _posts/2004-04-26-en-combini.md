@@ -15,7 +15,7 @@ _Combini_ (コンビニ) is one of the numerous words borrowed to English and ar
 
 ![7 Eleven]({{ site.url }}{{ site.baseurl }}/images/2004/04/7eleven.jpg)![Family Mart]({{ site.url }}{{ site.baseurl }}/images/2004/04/familymart.jpg)
 
-_Combini_'s sell for example _[bento]({% post_url 2004-05-02-en-bento %})'s_ or _[manga]({% post_url 2004-05-02-en-bento %})'s_, and they really became a necessity especially for _salary men_ going back home when all classical stores are closed.
+_Combini_'s sell for example _[bento]({% post_url 2004-05-02-en-bento %})'s_ or _[manga]({% post_url 2004-06-22-en-manga %})'s_, and they really became a necessity especially for _salary men_ going back home when all classical stores are closed.
 
 Today, _combini_'s are actually so widespread that, even when living in the countryside, you'll always be within reach of one of them.
 

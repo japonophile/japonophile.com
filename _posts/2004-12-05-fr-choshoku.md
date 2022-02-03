@@ -11,7 +11,7 @@ status: publish
 
 
 
-Voici à quoi ressemble un petit déjeuner japonais (_chôshoku_ 朝食) typique: riz, poisson grillé, [soupe miso]({% post_url 2005-04-16-fr-misoshiru %}), nori (algues séchées), et condiments (_tsukemono_)... sans oublier le [nattô]({% post_url 2005-04-16-fr-misoshiru %}), pour les amateurs (le matin? si, si, je vous assure).
+Voici à quoi ressemble un petit déjeuner japonais (_chôshoku_ 朝食) typique: riz, poisson grillé, [soupe miso]({% post_url 2005-04-16-fr-misoshiru %}), nori (algues séchées), et condiments (_tsukemono_)... sans oublier le [nattô]({% post_url 2004-04-27-fr-natto %}), pour les amateurs (le matin? si, si, je vous assure).
 
 ![Choshoku, petit dejeuner japonais]({{ site.url }}{{ site.baseurl }}/images/2004/12/choshoku.jpg)
 

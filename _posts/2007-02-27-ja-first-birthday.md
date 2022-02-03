@@ -21,7 +21,7 @@ status: publish
 
 しかし「赤ちゃんに3キログラムの餅を運ばせるなんて、とても考えられない」と思う方もいらっしゃるかもしれません。不思議な習慣ではありますが、いくつかの説明を聞いた事があります。
 
-[![風呂敷に包まれたお餅]({{ site.url }}{{ site.baseurl }}/images/2007/02/mochi-packing.miniature.jpg)]({{ site.url }}{{ site.baseurl }}/images/2007/02/img_7467.JPG "風呂敷に包まれたお餅")
+[![風呂敷に包まれたお餅]({{ site.url }}{{ site.baseurl }}/images/2007/02/mochi-packing.miniature.jpg)]({{ site.url }}{{ site.baseurl }}/images/2007/02/mochi-packing.jpg "風呂敷に包まれたお餅")
 
 風呂敷に包まれたお餅
 
@@ -29,7 +29,7 @@ status: publish
 - 10合の餅は「一升」ということで、「一生、食べ物が不足しない」という願望を表します。
 - そして北海道出身の方から聞いた説ですが、（女の子の場合は）遠くにお嫁に行かないように餅の負荷をかけます。
 
-[![赤ちゃんは前と後ろでお餅を運びます]({{ site.url }}{{ site.baseurl }}/images/2007/02/mochi-carrying.miniature.jpg)]({{ site.url }}{{ site.baseurl }}/images/2007/02/img_7467.JPG "赤ちゃんは前と後ろでお餅を運びます")
+[![赤ちゃんは前と後ろでお餅を運びます]({{ site.url }}{{ site.baseurl }}/images/2007/02/mochi-carrying.miniature.jpg)]({{ site.url }}{{ site.baseurl }}/images/2007/02/mochi-carrying.jpg "赤ちゃんは前と後ろでお餅を運びます")
 
 赤ちゃんは前と後ろでお餅を運びます
 

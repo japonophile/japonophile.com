@@ -25,7 +25,7 @@ Les petites filles japonaises se font offrir dès leur plus jeune âge des poup�
 
 A ce propos, on dit que si les poupées ne sont pas promptement rangées après la fête, la jeune fille prendra plus de temps pour se trouver un mari.
 
-[![Le visage d'une poupée Hina est son ame]({{ site.url }}{{ site.baseurl }}/images/2004/06/smallhinaningyo.thumbnail.jpg)]({{ site.url }}{{ site.baseurl }}/images/2004/06/hinaningyo.jpg "Le visage d'une poupée Hina est son ame")
+[![Le visage d'une poupée Hina est son ame]({{ site.url }}{{ site.baseurl }}/images/2004/06/smallhinaningyo.thumbnail.jpg)]({{ site.url }}{{ site.baseurl }}/images/2004/06/smallhinaningyo.jpg "Le visage d'une poupée Hina est son ame")
 
 Le visage d'une poupée Hina est son ame
 

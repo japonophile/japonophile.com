@@ -26,6 +26,6 @@ Moreover, thanks to a clever mechanism, it is possible to switch between hot and
 
 I often thought that this concept of vending machines selling (hot) coffee cans could be introduced in Europe or in the US, but someone told me the reason why we don't have as many vending machines as they do is probably because of vandalism. That's a shame.
 
-Another anecdote: in Japan, tabacco and alcohol are also sold in vending machines, although these products are of course forbidden to minors ([under 20]({% post_url 2004-04-23-en-ocha %}), in Japan). I really wonder how they do.
+Another anecdote: in Japan, tabacco and alcohol are also sold in vending machines, although these products are of course forbidden to minors ([under 20]({% post_url 2005-01-10-fr-seijinshiki %}), in Japan). I really wonder how they do.
 
 

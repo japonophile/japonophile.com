@@ -21,7 +21,7 @@ Lanterne Kotoji dans le jardin du Kenroku-en a Kanazawa
 
 Ce jardin merveilleux, dont l'emblême est la lanterne _kotoji_ (徽軫灯籠 _kotoji tôrô_), fut composé progressivement du XVIIème au XIXème siècle.
 
-[![L'abondance en eau dans le jardin du Kenroku-en]({{ site.url }}{{ site.baseurl }}/images/2005/06/kenrokuen2.thumbnail.jpg)]({{ site.url }}{{ site.baseurl }}/images/2005/06/kenrokuen1.jpg "L'abondance en eau dans le jardin du Kenroku-en")
+[![L'abondance en eau dans le jardin du Kenroku-en]({{ site.url }}{{ site.baseurl }}/images/2005/06/kenrokuen2.thumbnail.jpg)]({{ site.url }}{{ site.baseurl }}/images/2005/06/kenrokuen2.jpg "L'abondance en eau dans le jardin du Kenroku-en")
 
 L'abondance en eau dans le jardin du Kenroku-en
 
@@ -29,7 +29,7 @@ Le nom _kenroku_ 兼六 signifie littéralement: "les 6 \[qualités\] combinées
 
 Un exemple d'artifice est le "pin aux racines surélevées" (根上松 _né-agari-no-matsu_): les racines de ce pin gigantesque semblent en effet littéralement sortir de la terre. Pour réaliser cela, le pin a été planté sur une butte de terre, et lorsqu'il a atteint sa taille adulte, la terre a été retirée pour faire apparaître ses racines.
 
-[![Pin aux racines surélevées, dans le jardin du Kenroku-en]({{ site.url }}{{ site.baseurl }}/images/2005/06/kenrokuen3.thumbnail.jpg)]({{ site.url }}{{ site.baseurl }}/images/2005/06/kenrokuen1.jpg "Pin aux racines surélevées, dans le jardin du Kenroku-en")
+[![Pin aux racines surélevées, dans le jardin du Kenroku-en]({{ site.url }}{{ site.baseurl }}/images/2005/06/kenrokuen3.thumbnail.jpg)]({{ site.url }}{{ site.baseurl }}/images/2005/06/kenrokuen3.jpg "Pin aux racines surélevées, dans le jardin du Kenroku-en")
 
 Pin aux racines surélevées, dans le jardin du Kenroku-en
 
@@ -37,12 +37,12 @@ Personnellement, j'ai beaucoup apprécié le _Kenroku-en_. Le Japon recèle de q
 
 Il va sans dire qu'un tel jardin demande d'être entretenu continuellement.
 
-[![Dames qui entretiennent le jardin du Kenroku-en]({{ site.url }}{{ site.baseurl }}/images/2005/06/kenrokuen4.thumbnail.jpg)]({{ site.url }}{{ site.baseurl }}/images/2005/06/kenrokuen1.jpg "Dames qui entretiennent le jardin du Kenroku-en")
+[![Dames qui entretiennent le jardin du Kenroku-en]({{ site.url }}{{ site.baseurl }}/images/2005/06/kenrokuen4.thumbnail.jpg)]({{ site.url }}{{ site.baseurl }}/images/2005/06/kenrokuen4.jpg "Dames qui entretiennent le jardin du Kenroku-en")
 
 Dames qui entretiennent le jardin du Kenroku-en
 
 En me promenant dans les allées, j'ai en effet croisé une équipe de dames âgées qui arrachaient les mauvaises herbes d'un parterre, avec beaucoup d'acharnement et... sous un soleil de plomb. Je profite de cet article pour leur rendre hommage (tout comme les gens qui entretenaient les statues de neige lors du _[yuki-matsuri]({% post_url 2005-02-26-fr-yukimatsuri %})_).
 
-Enfin, une agréable façon de terminer la visite du jardin est de s'arrêter un instant dans l'une des maisons de thé, pour savourer un _[mattcha]({% post_url 2005-02-26-fr-yukimatsuri %})_ en admirant le paysage.
+Enfin, une agréable façon de terminer la visite du jardin est de s'arrêter un instant dans l'une des maisons de thé, pour savourer un _[mattcha]({% post_url 2004-04-23-fr-ocha %})_ en admirant le paysage.
 
 

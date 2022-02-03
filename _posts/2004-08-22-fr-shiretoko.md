@@ -15,7 +15,7 @@ Le Parc National de _Shiretoko_ (知床) porte bien son nom qui en langue _[aïn
 
 Situé à l'extrême Est de l'île de _Hokkaidô_, ![Biches du Parc de Shiretoko]({{ site.url }}{{ site.baseurl }}/images/2004/08/shiretokoshika.jpg)_Shiretoko_ est une péninsule qui s'enfonce dans la mer, bordée à quelques kilomètres par les îles Kuril (revendiquées par le Japon depuis la fin de la guerre 40-45, après qu'elles eurent été annexées par la Russie).
 
-![Renard du Parc de Shiretoko]({{ site.url }}{{ site.baseurl }}/images/2004/08/shiretokokitsune.jpg)Comme le [Parc du Daisetsuzan]({% post_url 2004-08-15-fr-ainou %}), le Parc National de _Shiretoko_ est un paradis de nature: c'est le seul endroit au Japon où l'on trouve encore des terres côtières à l'état naturel, inviolées par les hommes (car c'est maintenant une réserve protégée, mais sans doute aussi car le climat y est rude, et que la vie y serait extrêmement difficile).
+![Renard du Parc de Shiretoko]({{ site.url }}{{ site.baseurl }}/images/2004/08/shiretokokitsune.jpg)Comme le [Parc du Daisetsuzan]({% post_url 2004-08-22-fr-daisetsuzan %}), le Parc National de _Shiretoko_ est un paradis de nature: c'est le seul endroit au Japon où l'on trouve encore des terres côtières à l'état naturel, inviolées par les hommes (car c'est maintenant une réserve protégée, mais sans doute aussi car le climat y est rude, et que la vie y serait extrêmement difficile).
 
 Le parc est fermé aux voitures (il n'y a d'ailleurs pas de routes), mais on peut cependant s'y promener, et observer les animaux qui y vivent: des biches, des renards, et ... des ours (mais d'eux, je n'ai pas de photo!)
 

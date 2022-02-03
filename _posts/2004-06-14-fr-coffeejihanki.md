@@ -26,6 +26,6 @@ En plus, au moyen d'un ingénieux système, il est possible de configurer ces ma
 
 Je me suis souvent dit que les distributeurs automatiques de canettes (chaudes) de café ou de thé pourraient être un produit intéressant à introduire en Europe ou aux Etats-Unis, mais quelqu'un m'a fait remarquer que si l'on ne trouve que peu de distributeurs automatiques chez nous, c'est sans doute à cause du vandalisme. Dommage.
 
-Encore une anecdote à ce sujet: au Japon, cigarettes et alcool sont également vendus par des distributeurs automatiques, alors que ces produits sont bien entendu interdits aux mineurs d'âge ([20 ans]({% post_url 2004-04-23-fr-ocha %}), au Japon). C'est à se demander comment ils font.
+Encore une anecdote à ce sujet: au Japon, cigarettes et alcool sont également vendus par des distributeurs automatiques, alors que ces produits sont bien entendu interdits aux mineurs d'âge ([20 ans]({% post_url 2005-01-10-fr-seijinshiki %}), au Japon). C'est à se demander comment ils font.
 
 

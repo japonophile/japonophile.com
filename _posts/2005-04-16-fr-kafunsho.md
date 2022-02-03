@@ -23,6 +23,6 @@ Ces masques, les Japonais s'en servent également lorsqu'ils ont un rhume, pour 
 
 Heureusement, tous les japonais ne sont pas allergiques au pollen, mais il semblerait que chaque individu soit susceptible de le devenir: plus le temps passe, plus le pollen que l'on absorbe s'accumule, et lorsqu'il atteint une certaine dose, l'allergie peut se déclancher. Et lorsque le _kafunshô_ vous attrappe, il ne vous lache plus!
 
-Bien entendu, comme pour les [typhons]({% post_url 2004-04-25-fr-sakura %}), les émissions de pollens sont prédites et cartographiées, mais rien n'y fait: chaque année, un japonais sur cinq éternue bruyamment de mars à mai.
+Bien entendu, comme pour les [typhons]({% post_url 2004-06-10-fr-taifuu %}), les émissions de pollens sont prédites et cartographiées, mais rien n'y fait: chaque année, un japonais sur cinq éternue bruyamment de mars à mai.
 
 

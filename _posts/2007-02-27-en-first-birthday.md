@@ -21,7 +21,7 @@ The mochi is packed in a beautiful Japanese paper (_washi_ 和紙, see picture),
 
 Some of you are probably shocked and think: "What a shame! Let a poor baby carry 3 kilos of mochi!", but I heard several explanations to this curious custom.
 
-[![Mochi is packed in a towel (furoshiki)]({{ site.url }}{{ site.baseurl }}/images/2007/02/mochi-packing.miniature.jpg)]({{ site.url }}{{ site.baseurl }}/images/2007/02/img_7467.JPG "Mochi is packed in a towel (furoshiki)")
+[![Mochi is packed in a towel (furoshiki)]({{ site.url }}{{ site.baseurl }}/images/2007/02/mochi-packing.miniature.jpg)]({{ site.url }}{{ site.baseurl }}/images/2007/02/mochi-packing.jpg "Mochi is packed in a towel (furoshiki)")
 
 Mochi is packed in a towel (furoshiki)
 
@@ -29,13 +29,13 @@ Mochi is packed in a towel (furoshiki)
 - The quantity of "10 go" of mochi corresponds to 1 _sho_ (一升 _isshô_, that is about 1800cc). This quantity _isshô_, is pronounced the same way as the expression "for the whole life" (written differently, though: 一生), and expresses the wish that the child will always have something to eat.
 - Another explanation, from someone from _Hokkaido_ (北海道): if the child is a girl, this custom would be aimed at preventing her to find a husband living far away from her parents.
 
-[![The child carries mochi on the front and on the back]({{ site.url }}{{ site.baseurl }}/images/2007/02/mochi-carrying.miniature.jpg)]({{ site.url }}{{ site.baseurl }}/images/2007/02/img_7467.JPG "The child carries mochi on the front and on the back")
+[![The child carries mochi on the front and on the back]({{ site.url }}{{ site.baseurl }}/images/2007/02/mochi-carrying.miniature.jpg)]({{ site.url }}{{ site.baseurl }}/images/2007/02/mochi-carrying.jpg "The child carries mochi on the front and on the back")
 
 The child carries mochi on the front and on the back
 
 Although these explanations seem outdated (except maybe for the child teasing his parents, this is still the case today, but how would the parents have fun otherwise?), this custom is nonetheless still widespread nowadays.
 
-The _mochi_ is first packet in a kind of towel called _furoshiki_ 風呂敷. A _furoshiki_, which is originally a bath towel ([_furo_]({% post_url 2007-01-19-en-mochi %}) 風呂 = bath, and _shiki_ 敷 = spread \[a linen etc.\]), serves many purposes: to get dry of course, but also to pack a bundle etc.
+The _mochi_ is first packet in a kind of towel called _furoshiki_ 風呂敷. A _furoshiki_, which is originally a bath towel ([_furo_]({% post_url 2004-11-13-en-ofuro %}) 風呂 = bath, and _shiki_ 敷 = spread \[a linen etc.\]), serves many purposes: to get dry of course, but also to pack a bundle etc.
 
 Then, one lets the baby carry (背負う _seou_ = carry on ones back) the bundle of mochi. But this little game usually does not last long, because the child will start crying and shouting to be delivered.
 

@@ -29,7 +29,7 @@ There is a common belief, that if the _hina_ dolls are not promptly put back aft
   
   
 
-[![The face of a Hina doll is its soul]({{ site.url }}{{ site.baseurl }}/images/2004/06/smallhinaningyo.thumbnail.jpg)]({{ site.url }}{{ site.baseurl }}/images/2004/06/hinaningyo.jpg "The face of a Hina doll is its soul")
+[![The face of a Hina doll is its soul]({{ site.url }}{{ site.baseurl }}/images/2004/06/smallhinaningyo.thumbnail.jpg)]({{ site.url }}{{ site.baseurl }}/images/2004/06/smallhinaningyo.jpg "The face of a Hina doll is its soul")
 
 The face of a Hina doll is its soul
 
