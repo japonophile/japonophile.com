@@ -1,0 +1,12 @@
+en:
+  label: English
+  icon: 🇬🇧
+  read_it_in: "Read it in"
+fr:
+  label: Français
+  icon: 🇫🇷
+  read_it_in: "Lire en"
+ja:
+  label: 日本語
+  icon: 🇯🇵
+  read_it_in: "他の言語で読む"

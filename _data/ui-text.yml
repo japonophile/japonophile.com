@@ -1,0 +1,83 @@
+# User interface text and labels
+
+# English (default)
+# -----------------
+en: &DEFAULT_EN
+  comments_label             : "Leave a comment"
+  comments_title             : "Comments"
+  comment_form_info          : "Your email address will not be published. Required fields are marked"
+  comment_form_comment_label : "Comment"
+  comment_form_md_info       : "Markdown is supported."
+  comment_form_name_label    : "Name"
+  comment_form_email_label   : "Email address"
+  comment_form_website_label : "Website (optional)"
+  comment_btn_submit         : "Submit comment"
+  comment_btn_submitted      : "Submitted"
+  comment_success_msg        : "Thanks for your comment! It will show on the site once it has been approved."
+  comment_error_msg          : "Sorry, there was an error with your submission. Please make sure all required fields have been completed and try again."
+  read_more                  : "Read&nbsp;More"
+  previous_post              : "&larr; Previous Post"
+  next_post                  : "Next Post &rarr;"
+  older_posts                : "Older Posts &rarr;"
+  newer_posts                : "&larr; Newer Posts"
+  posted_on                  : "Posted on"
+en-US:
+  <<: *DEFAULT_EN
+en-CA:
+  <<: *DEFAULT_EN
+en-GB:
+  <<: *DEFAULT_EN
+en-AU:
+  <<: *DEFAULT_EN
+
+# French
+# ------
+fr: &DEFAULT_FR
+  comments_label             : "Laisser un commentaire"
+  comments_title             : "Commentaires"
+  comment_form_info          : "Votre adresse email ne sera pas visible. Les champs obligatoires sont marqués"
+  comment_form_comment_label : "Commentaire"
+  comment_form_md_info       : "Markdown est supporté."
+  comment_form_name_label    : "Nom"
+  comment_form_email_label   : "Adresse mail"
+  comment_form_website_label : "Site web (optionnel)"
+  comment_btn_submit         : "Envoyer"
+  comment_btn_submitted      : "Envoyé"
+  comment_success_msg        : "Merci pour votre commentaire, il sera visible sur le site une fois approuvé."
+  comment_error_msg          : "Désolé, une erreur est survenue lors de la soumission. Vérifiez que les champs obligatoires ont été remplis et réessayez."
+  read_more                  : "Lire&nbsp;la&nbsp;suite"
+  previous_post              : "&larr; Article précédent"
+  next_post                  : "Article suivant &rarr;"
+  older_posts                : "Articles plus anciens &rarr;"
+  newer_posts                : "&larr; Articles plus récents"
+  posted_on                  : "Écrit le"
+fr-FR:
+  <<: *DEFAULT_FR
+fr-BE:
+  <<: *DEFAULT_FR
+fr-CH:
+  <<: *DEFAULT_FR
+
+# Japanese
+# --------
+ja: &DEFAULT_JA
+  comments_label             : "コメントする"
+  comments_title             : "コメント"
+  comment_form_info          : "メールアドレスが公開されることはありません。次の印のある項目は必ず入力してください:"
+  comment_form_comment_label : "コメント"
+  comment_form_md_info       : "Markdown を使用できます"
+  comment_form_name_label    : "名前"
+  comment_form_email_label   : "メールアドレス"
+  comment_form_website_label : "URL (任意)"
+  comment_btn_submit         : "コメントを送信する"
+  comment_btn_submitted      : "送信しました"
+  comment_success_msg        : "コメントありがとうございます！　コメントは承認されるとページに表示されます。"
+  comment_error_msg          : "送信エラーです。必須項目がすべて入力されていることを確認して再送信してください。"
+  read_more                  : "続きを読む"
+  previous_post              : "&larr; 前の記事"
+  next_post                  : "次の記事 &rarr;"
+  older_posts                : "より古い記事 &rarr;"
+  newer_posts                : "&larr; より新しい記事"
+  posted_on                  : "作成日:"
+ja-JP:
+  <<: *DEFAULT_JA
