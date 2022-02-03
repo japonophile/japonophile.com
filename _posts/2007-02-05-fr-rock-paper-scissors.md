@@ -43,6 +43,6 @@ Mais le plus amusant, c'est qu'au Japon, le jeu de "pierre-papier-ciseaux" n'est
 
 Autre anecdote. On m'a raconté qu'une partie de _"janken"_ avait un jour véritablement marqué l'avenir de trois étudiants. Ceux-ci terminaient leurs études universitaires, et étaient à la recherche de leur premier emploi. Ils partageaient la même spécialité et souhaitaient postuler pour un job dans la même grosse entreprise. Il est de coutume, au Japon, que l'université "recommande" certains (très bons) étudiants aux grandes entreprises afin de faciliter la sélection de nouvelles recrues. Or, comme il n'y avait qu'une place disponible et que les performances des trois étudiants ne permettant pas de désigner un gagnant, ceux-ci jouèrent leur sort... au _"janken"_.
 
-Vrai ou pas? Quoi qu'il en soit, tant qu'a tirer au sort, une partie de _"janken"_ vaut aussi bien qu'un tirage à l'_[amida-kuji](http://www.japonophile.com/article_kuji_fr.html)_, ne trouvez-vous pas?
+Vrai ou pas? Quoi qu'il en soit, tant qu'a tirer au sort, une partie de _"janken"_ vaut aussi bien qu'un tirage à l'_[amida-kuji]({% post_url 2004-10-31-fr-kuji %})_, ne trouvez-vous pas?
 
 

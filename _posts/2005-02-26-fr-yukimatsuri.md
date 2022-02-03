@@ -11,7 +11,7 @@ status: publish
 
 
 
-Le _Yuki-Matsuri_ 雪祭 (Festival de la Neige) a lieu chaque année, la deuxième semaine de février à _[Sapporo](http://www.japonophile.com/article_sapporo_fr.html)_, _Hokkaidô_.
+Le _Yuki-Matsuri_ 雪祭 (Festival de la Neige) a lieu chaque année, la deuxième semaine de février à _[Sapporo]({% post_url 2004-08-15-fr-sapporo %})_, _Hokkaidô_.
 
 ![Yuki-Matsuri au Parc de Odori]({{ site.url }}{{ site.baseurl }}/images/2005/02/yukimatsuri-odori1.jpg)Le premier _Yuki-Matsuri_ eut lieu en 1950, où des étudiants construisirent six statues de neige, qui attirèrent les curieux. Cinq ans plus tard, Les Forces d'Auto-Défense japonaises construisirent de gigantesques statues, qui rendirent le festival célèbre.  
   

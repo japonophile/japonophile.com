@@ -11,7 +11,7 @@ status: publish
 
  
 
-Les maisons au Japon sont traditionnellement construites en bois, pour résister aux [tremblements de terre](http://www.japonophile.com/article_jishin_fr.html). En effet, lorsque la terre tremble, alors qu'une maison en brique risque d'être abîmée ou détruite, une maison en bois bouge mais ne casse pas: le bois travaille, les linteaux grincent, mais les habitants sont en sécurité.
+Les maisons au Japon sont traditionnellement construites en bois, pour résister aux [tremblements de terre]({% post_url 2004-05-17-fr-jishin %}). En effet, lorsque la terre tremble, alors qu'une maison en brique risque d'être abîmée ou détruite, une maison en bois bouge mais ne casse pas: le bois travaille, les linteaux grincent, mais les habitants sont en sécurité.
 
 ![Maison en bois, en construction]({{ site.url }}{{ site.baseurl }}/images/2004/05/woodenhouse.jpg)Un autre avantage des maisons en bois est que, construites surélevées, à 30-40 centimètres du sol, elles sont protégées de l'humidité montant du sol. (C'est d'ailleurs parce que les maisons japonaises sont surélevées qu'en Japonais, l'on ne dit pas "entrez", mais "montez" _o agari kudasai_ お上がり下さい lorsqu'on accueille un invité).
 

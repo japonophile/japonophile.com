@@ -15,7 +15,7 @@ On March 3, in Japan, takes place the _Hina Matsuri_ ひな祭り, the "Dolls Fe
 
  
 
-On this day, girls have the place of honor in Japan (so they are not jealous on May 5, the ["Children's Day"](http://www.japonophile.com/article_koinobori_en.html), dedicated to the boys!).
+On this day, girls have the place of honor in Japan (so they are not jealous on May 5, the ["Children's Day"]({% post_url 2004-05-05-en-koinobori %}), dedicated to the boys!).
 
 [![Hina Matsuri dolls]({{ site.url }}{{ site.baseurl }}/images/2004/06/hinaningyo.thumbnail.jpg)](http://www.japonophile.com/wp-content/uploads/2004-2006/hinaningyo.jpg "Hina Matsuri dolls")
 

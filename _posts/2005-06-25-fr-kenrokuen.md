@@ -41,8 +41,8 @@ Il va sans dire qu'un tel jardin demande d'être entretenu continuellement.
 
 Dames qui entretiennent le jardin du Kenroku-en
 
-En me promenant dans les allées, j'ai en effet croisé une équipe de dames âgées qui arrachaient les mauvaises herbes d'un parterre, avec beaucoup d'acharnement et... sous un soleil de plomb. Je profite de cet article pour leur rendre hommage (tout comme les gens qui entretenaient les statues de neige lors du _[yuki-matsuri](http://www.japonophile.com/article_yukimatsuri_fr.html)_).
+En me promenant dans les allées, j'ai en effet croisé une équipe de dames âgées qui arrachaient les mauvaises herbes d'un parterre, avec beaucoup d'acharnement et... sous un soleil de plomb. Je profite de cet article pour leur rendre hommage (tout comme les gens qui entretenaient les statues de neige lors du _[yuki-matsuri]({% post_url 2005-02-26-fr-yukimatsuri %})_).
 
-Enfin, une agréable façon de terminer la visite du jardin est de s'arrêter un instant dans l'une des maisons de thé, pour savourer un _[mattcha](http://www.japonophile.com/article_ocha_fr.html)_ en admirant le paysage.
+Enfin, une agréable façon de terminer la visite du jardin est de s'arrêter un instant dans l'une des maisons de thé, pour savourer un _[mattcha]({% post_url 2005-02-26-fr-yukimatsuri %})_ en admirant le paysage.
 
 

@@ -11,7 +11,7 @@ status: publish
 
 
 
-_Ôsaka-jô_ (大阪城), le château d'Ôsaka vaut le détour, même s'il s'agit en fait d'une reproduction en béton de l'original (les japonais ne sont pas vraiment sensible au caractère original de leurs bâtiments; ainsi, le [Kinkakuji](http://www.japonophile.com/article_kinkakuji_fr.html) est également une reproduction).
+_Ôsaka-jô_ (大阪城), le château d'Ôsaka vaut le détour, même s'il s'agit en fait d'une reproduction en béton de l'original (les japonais ne sont pas vraiment sensible au caractère original de leurs bâtiments; ainsi, le [Kinkakuji]({% post_url 2004-04-26-fr-kinkakuji %}) est également une reproduction).
 
 ![Chateau d Osaka]({{ site.url }}{{ site.baseurl }}/images/2004/04/osakajo.jpg)
 

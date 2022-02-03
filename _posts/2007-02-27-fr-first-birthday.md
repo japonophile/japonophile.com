@@ -15,7 +15,7 @@ Lorsqu'un bébé fête son premier anniversaire, une curieuse coutume est de mis
 
 Mochi pour l'anniversaire d'un an
 
-La coutume au Japon veut en effet que l'on fasse porter à l'enfant un packet de _[mochi](http://www.japonophile.com/article_mochi_fr.html)_. Et non pas quelques grammes, mais carrément 10 _gô_ (le _gô_ 合 est une unité de mesure volumique utilisée pour le riz, équivalant à 0.18 litre, càd environ une tasse; 10 _gô_ font environ 3.3 kilo de riz!).
+La coutume au Japon veut en effet que l'on fasse porter à l'enfant un packet de _[mochi]({% post_url 2007-01-19-fr-mochi %})_. Et non pas quelques grammes, mais carrément 10 _gô_ (le _gô_ 合 est une unité de mesure volumique utilisée pour le riz, équivalant à 0.18 litre, càd environ une tasse; 10 _gô_ font environ 3.3 kilo de riz!).
 
 Le mochi emballé dans un joli papier japonais (voir photo ci-contre) est souvent de deux couleurs: rose et blanc, car ces deux couleurs (en fait le rouge et le blanc) symbolisent la fête au Japon, comme l'illustre aussi le caractère 寿 _kotobuki_ sur l'emballage. Le rouge et le blanc sont aussi les couleurs traditionnelles du Nouvel An japonais.
 
@@ -35,7 +35,7 @@ L'enfant d'un an porte le mochi sur le dos et sur le ventre
 
 Bien que ces explications remontent apparemment à une époque révolue (sauf pour ce qui est des bêtises, ça, les enfants en font toujours, mais il faut bien cela pour occuper les parents), cette coutume est néanmoins encore d'application de nos jours.
 
-On commencera par emballer le _mochi_ dans un tissu, appelé _furoshiki_ 風呂敷. Le _furoshiki_, qui est à l'origine une "serviette de bain" ([_furo_](http://www.japonophile.com/article_ofuro_fr.html) 風呂 = bain, et _shiki_ 敷 = étaler \[un tissu etc.\]), peu servir à beaucoup de choses: pour se sécher bien entendu, mais aussi pour emballer un balluchon etc.
+On commencera par emballer le _mochi_ dans un tissu, appelé _furoshiki_ 風呂敷. Le _furoshiki_, qui est à l'origine une "serviette de bain" ([_furo_]({% post_url 2007-01-19-fr-mochi %}) 風呂 = bain, et _shiki_ 敷 = étaler \[un tissu etc.\]), peu servir à beaucoup de choses: pour se sécher bien entendu, mais aussi pour emballer un balluchon etc.
 
 Ensuite, on fait porter (背負う _seou_ = porter sur le dos) le balluchon de mochi au bébé. Mais le jeu ne durera pas longtemps, car l'enfant va vite crier son désaccord et demander qu'on le délivre de son fardeau.
 

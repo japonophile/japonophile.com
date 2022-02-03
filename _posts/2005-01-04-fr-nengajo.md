@@ -17,10 +17,10 @@ Au Japon, l'envoi de cartes de voeux ou _nenga-jô_ 年賀状 est une coutume tr
 
 Les _nenga-jô_ portent la plupart du temps l'une des phrases suivantes:  
 \- _\[shinnen\] akémashité omedetô gozaïmasu  
-kotoshi mo [yoroshiku](http://www.japonophile.com/article_yoroshiku_fr.html) onegaï shimasu_  
+kotoshi mo [yoroshiku]({% post_url 2004-05-23-fr-yoroshiku %}) onegaï shimasu_  
 新年あけましておめでとうございます  
 今年もよろしくお願いします  
-(litt.: félicitations, à l'aube \[de la nouvelle année\], [je demande votre bienveillance](http://www.japonophile.com/article_yoroshiku_fr.html) cette année encore)  
+(litt.: félicitations, à l'aube \[de la nouvelle année\], [je demande votre bienveillance]({% post_url 2004-05-23-fr-yoroshiku %}) cette année encore)  
 \- _kinga shinnen_  
 謹賀新年  
 ("bonne année!")  

@@ -11,7 +11,7 @@ status: publish
 
 
 
-_Sazaé-san_ (càd Mme _Sazaé_) サザエさん est le titre d'un _[manga](http://www.japonophile.com/article_manga_fr.html)_ que j'apprécie beaucoup et qui me semble être une clé pour mieux connaître le Japon.
+_Sazaé-san_ (càd Mme _Sazaé_) サザエさん est le titre d'un _[manga]({% post_url 2004-06-22-fr-manga %})_ que j'apprécie beaucoup et qui me semble être une clé pour mieux connaître le Japon.
 
 C'est _Machiko Hasegawa_ 長谷川町子, une femme originaire de _[Fukuoka](http://www.japonophile.com/map/fukuoka/)_ (_Kyûshû_), qui mit au monde _Sazaé-san_ en 1946, qui parut d'abord dans un journal local. ![Sazae-san]({{ site.url }}{{ site.baseurl }}/images/2005/01/sazaesan9.jpg)On dit que c'est en se promenant le long de la mer avec sa fille que _Hasegawa_ imagina ses personnages, et que c'est pour cela que ceux-ci portent des noms de poissons et autres créatures marines.
 

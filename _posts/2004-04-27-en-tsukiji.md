@@ -19,6 +19,6 @@ A fisherman with whom we were talking challenged us with the following riddle: "
 
 ![Tuna fish]({{ site.url }}{{ site.baseurl }}/images/2004/04/tsukijitsuna.jpg)
 
-Eventually, after having seen the market (and made your shopping), I advice you to go and have breakfast in one of the many surrounding _[sushi](http://www.japonophile.com/article_sushi_en.html)_ restaurants: you'll find there raw fish of the best quality.
+Eventually, after having seen the market (and made your shopping), I advice you to go and have breakfast in one of the many surrounding _[sushi]({% post_url 2004-04-28-en-sushi %})_ restaurants: you'll find there raw fish of the best quality.
 
 

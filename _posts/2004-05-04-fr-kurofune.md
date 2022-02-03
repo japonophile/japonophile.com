@@ -11,7 +11,7 @@ status: publish
 
 
 
-En 1853, le commodore Perry, envoyé par le gouvernement américain, ![]({{ site.url }}{{ site.baseurl }}/images/2004/05/kurofune.jpg) fait irruption avec ses sept bâteaux noirs (_kuro-fune_ 黒船) dans la baie de _Shimoda_ (voir aussi [Izu](http://www.japonophile.com/article_izu_fr.html)). Son but? Négocier avec le Japon afin d'autoriser le commerce avec les Etats-Unis.
+En 1853, le commodore Perry, envoyé par le gouvernement américain, ![]({{ site.url }}{{ site.baseurl }}/images/2004/05/kurofune.jpg) fait irruption avec ses sept bâteaux noirs (_kuro-fune_ 黒船) dans la baie de _Shimoda_ (voir aussi [Izu]({% post_url 2004-05-04-fr-izu %})). Son but? Négocier avec le Japon afin d'autoriser le commerce avec les Etats-Unis.
 
 Perry et ses hommes, arrivés non armés et les bras chargés de cadeaux, sont très bien accueillis par les Japonais, et les négociations débouchent sur la signature du "Traité de l'Amitié" en 13 articles, permettant aux Américains de faire du commerce avec les Japonais dans la ville de Shimoda (plus tard, le traité sera revu pour permettre l'accès à Yokohama, plus central).
 

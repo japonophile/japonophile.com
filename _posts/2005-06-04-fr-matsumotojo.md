@@ -21,7 +21,7 @@ Le château de Matsumoto, imposant
 
 Ce château, datant du XVIème siècle, fut d'abord construit pour la guerre. On y retrouve en effet beaucoup d'éléments semblables à ceux des châteaux du Moyen-Age en Europe: douves, murs extrêmement épais, fenêtres minuscules, meurtrières, etc.
 
-Mais une grande différence avec nos châteaux est que le château de Matsumoto, comme la plupart des châteaux japonais, est essentiellement construit en bois. (Et cette fois-ci, contrairement au [Château d'Osaka](http://www.japonophile.com/article_osakajo_fr.html), il ne s'agit pas d'une reproduction en béton!).
+Mais une grande différence avec nos châteaux est que le château de Matsumoto, comme la plupart des châteaux japonais, est essentiellement construit en bois. (Et cette fois-ci, contrairement au [Château d'Osaka]({% post_url 2004-04-26-fr-osakajo %}), il ne s'agit pas d'une reproduction en béton!).
 
 [![Entrée du château]({{ site.url }}{{ site.baseurl }}/images/2005/06/matsumotojo2.thumbnail.jpg)](http://www.japonophile.com/wp-content/uploads/2004-2006/matsumotojo2.jpg "Entrée du château")
 

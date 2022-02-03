@@ -15,7 +15,7 @@ Traverser le Japon d'un bout à l'autre en auto-stop. Une idée saugrenue? Will 
 
  
 
-C'est le printemps que ce dernier a choisi pour traverser le Japon, du Cap Sata (Sud de Kûshû) au Cap Sôya (extrême Nord de Hokkaidô), et suivre ansi la saison de la floraison des _[sakura](http://www.japonophile.com/article_sakura_fr.html)_ de jour en jour. Et ce, à la seule force de son pouce! Ou plutôt, en comptant seulement sur la bonne volonté des Japonais.
+C'est le printemps que ce dernier a choisi pour traverser le Japon, du Cap Sata (Sud de Kûshû) au Cap Sôya (extrême Nord de Hokkaidô), et suivre ansi la saison de la floraison des _[sakura]({% post_url 2004-04-25-fr-sakura %})_ de jour en jour. Et ce, à la seule force de son pouce! Ou plutôt, en comptant seulement sur la bonne volonté des Japonais.
 
 [![”Hokkaido Highway Blues”, par Will Ferguson]({{ site.url }}{{ site.baseurl }}/images/2005/09/hokhighwayblues.thumbnail.jpg)](http://www.japonophile.com/wp-content/uploads/2004-2006/hokhighwayblues.jpg "”Hokkaido Highway Blues”, par Will Ferguson")
 

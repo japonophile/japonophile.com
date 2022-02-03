@@ -11,7 +11,7 @@ status: publish
 
 
 
-In 1853, commodore Perry, sent by the american government, ![Black ships]({{ site.url }}{{ site.baseurl }}/images/2004/05/kurofune.jpg)barges into the bay of _Shimoda_ (下田, see also: [Izu](http://www.japonophile.com/article_izu_en.html)), with his seven black ships (_kuro-fune_ 黒船). His purpose? To negociate with Japan, to allow trade with the United States.
+In 1853, commodore Perry, sent by the american government, ![Black ships]({{ site.url }}{{ site.baseurl }}/images/2004/05/kurofune.jpg)barges into the bay of _Shimoda_ (下田, see also: [Izu]({% post_url 2004-05-04-en-izu %})), with his seven black ships (_kuro-fune_ 黒船). His purpose? To negociate with Japan, to allow trade with the United States.
 
 Perry and his men, arrived without guns and heavy loaded with presents, are very welcomed by the japanese, and comes out of these negotiations a "Friendship Treaty" in 13 articles, giving right to the americans to trade with Japan in the city of _Shimoda_ (later, the treaty was revised, to allow access to _Yokohama_ 横浜, more central).
 

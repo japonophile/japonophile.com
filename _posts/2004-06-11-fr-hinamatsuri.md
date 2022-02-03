@@ -15,7 +15,7 @@ Le 3 mars, au Japon, c'est le _Hina Matsuri_ ひな祭り, le "Festival des Poup
 
  
 
-...pour ne pas faire de jalouses le 5 mai, lors de la ["Fête des Enfants"](http://www.japonophile.com/article_koinobori_fr.html)!
+...pour ne pas faire de jalouses le 5 mai, lors de la ["Fête des Enfants"]({% post_url 2004-05-05-fr-koinobori %})!
 
 [![Poupées du Hina Matsuri]({{ site.url }}{{ site.baseurl }}/images/2004/06/hinaningyo.thumbnail.jpg)](http://www.japonophile.com/wp-content/uploads/2004-2006/hinaningyo.jpg "Poupées du Hina Matsuri")
 

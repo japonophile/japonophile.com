@@ -15,7 +15,7 @@ _Combini_ (コンビニ) est un de ces nombreux mots empruntés à l'Anglais et 
 
 ![]({{ site.url }}{{ site.baseurl }}/images/2004/04/7eleven.jpg)![]({{ site.url }}{{ site.baseurl }}/images/2004/04/familymart.jpg)
 
-Le _combini_, où l'on trouve aussi bien des _[o-bentô](http://www.japonophile.com/article_bento_fr.html)_ que des _[manga](http://www.japonophile.com/article_manga_fr.html)_, et plus récemment des ATM, est devenu une nécessité, notamment pour les _salary men_ qui rentrent chez eux après l'heure de fermeture des magasins classiques.
+Le _combini_, où l'on trouve aussi bien des _[o-bentô]({% post_url 2004-05-02-fr-bento %})_ que des _[manga]({% post_url 2004-05-02-fr-bento %})_, et plus récemment des ATM, est devenu une nécessité, notamment pour les _salary men_ qui rentrent chez eux après l'heure de fermeture des magasins classiques.
 
 Aujourd'hui, les _combini_ sont tellement répandus que, même en plaine campagne, on n'habite jamais loin d'un de ces "magasins pratiques".
 

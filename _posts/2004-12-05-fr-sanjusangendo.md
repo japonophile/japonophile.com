@@ -19,7 +19,7 @@ Vu de l'extérieur, cette construction en bois, s'étirant en longueur, et garni
 
 Autre fait intéressant: il paraît que _Sanjûsangen-dô_ est depuis longtemps choisi pour l'organistation de concours de tir à l'arc (_tôshiya_, 通し矢), vu sa longueur impressionnante. Chaque année, au mois de janvier est organisé le festival _Yanagi-no-okaji_ (楊枝のお加待) qui, paraît-il, est un des événements les plus importants de _Sanjûsangendô_.
 
-Enfin, il est intéressant de noter que l'architecture du bâtiment est conçue pour résister aux [tremblements de terre](http://www.japonophile.com/article_jishin_fr.html), au moyen d'un ingénieux système de couches alternées de terre et de sable, chaque pilier reponsant sur une énorme pierre.
+Enfin, il est intéressant de noter que l'architecture du bâtiment est conçue pour résister aux [tremblements de terre]({% post_url 2004-05-17-fr-jishin %}), au moyen d'un ingénieux système de couches alternées de terre et de sable, chaque pilier reponsant sur une énorme pierre.
 
 _Le nom _Sanjûsangen-dô_, signifiant le palais aux 33 "espaces" (espaces entre les colonnes), faisant référence aux 33 bras de la déesse, symbolisant les 33 façons dont elle vient en aide à ses fidèles._
 

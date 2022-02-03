@@ -15,7 +15,7 @@ Sapporo (札幌) ![L horloge de Sapporo]({{ site.url }}{{ site.baseurl }}/images
 
 Le _Tokeidai_ (時計台) est: une horloge devenue comme le symbole de la ville de Sapporo. Situé au centre, le bâtiment construit fin XIXème est d'influence occidentale.
 
-Sapporo possède en outre diverses choses à voir, comme l'ancien bâtiment du gouvernement, le jardin botanique, le quartier nocturne de _susukino_, divers musées (dont un Musée de la Culture [Aïnou](http://www.japonophile.com/article_ainou_fr.html)), sans manquer bien entendu... l'usine de la bière "Sapporo"!
+Sapporo possède en outre diverses choses à voir, comme l'ancien bâtiment du gouvernement, le jardin botanique, le quartier nocturne de _susukino_, divers musées (dont un Musée de la Culture [Aïnou]({% post_url 2004-08-15-fr-ainou %})), sans manquer bien entendu... l'usine de la bière "Sapporo"!
 
 ![Usine de la biere Sapporo]({{ site.url }}{{ site.baseurl }}/images/2004/08/sapporobeerfactory.jpg)Cette dernière est aujourd'hui transformée en musée dont je vous recommande la visite. Vous y découvrirez comment la brasserie "Sapporo" est née et le processus de fabrication de la bière ... à la japonaise?
 

@@ -15,7 +15,7 @@ Japanese have a very special custom when a baby celebrate its first birthday.
 
 Mochi for the first birthday
 
-It is the custom in Japan to let the child carry a pack of [mochi](http://www.japonophile.com/article_mochi_en.html). And not only a few grams, but 10 _gô_ (the _gô_ 合 is a volumetric unit used for rice, equivalent to 0.18 liter, that is, about one cup; 10 _gô_ represent about 3.3 kilogram rice!).
+It is the custom in Japan to let the child carry a pack of [mochi]({% post_url 2007-01-19-en-mochi %}). And not only a few grams, but 10 _gô_ (the _gô_ 合 is a volumetric unit used for rice, equivalent to 0.18 liter, that is, about one cup; 10 _gô_ represent about 3.3 kilogram rice!).
 
 The mochi is packed in a beautiful Japanese paper (_washi_ 和紙, see picture), and it is often made of two colors: pink and white, because these colors (in fact red and white) are the symbol of celebration and feast in Japan, as illustrated by the kanji 寿 _kotobuki_ on the pack. Red and white are also the traditional colors of New Year in Japan.
 
@@ -35,7 +35,7 @@ The child carries mochi on the front and on the back
 
 Although these explanations seem outdated (except maybe for the child teasing his parents, this is still the case today, but how would the parents have fun otherwise?), this custom is nonetheless still widespread nowadays.
 
-The _mochi_ is first packet in a kind of towel called _furoshiki_ 風呂敷. A _furoshiki_, which is originally a bath towel ([_furo_](http://www.japonophile.com/article_ofuro_en.html) 風呂 = bath, and _shiki_ 敷 = spread \[a linen etc.\]), serves many purposes: to get dry of course, but also to pack a bundle etc.
+The _mochi_ is first packet in a kind of towel called _furoshiki_ 風呂敷. A _furoshiki_, which is originally a bath towel ([_furo_]({% post_url 2007-01-19-en-mochi %}) 風呂 = bath, and _shiki_ 敷 = spread \[a linen etc.\]), serves many purposes: to get dry of course, but also to pack a bundle etc.
 
 Then, one lets the baby carry (背負う _seou_ = carry on ones back) the bundle of mochi. But this little game usually does not last long, because the child will start crying and shouting to be delivered.
 

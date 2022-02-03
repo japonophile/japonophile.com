@@ -15,7 +15,7 @@ Japanese houses are traditionally built from wood, to resist earthquakes.
 
  
 
-During an [earthquake](http://www.japonophile.com/article_jishin_en.html), while a brick house is likely to be damaged or destroyed, a wooden house will move but not break: wood creaks and squeaks, but the occupants are safe.
+During an [earthquake]({% post_url 2004-05-17-en-jishin %}), while a brick house is likely to be damaged or destroyed, a wooden house will move but not break: wood creaks and squeaks, but the occupants are safe.
 
 ![Wooden houses under construction]({{ site.url }}{{ site.baseurl }}/images/2004/05/woodenhouse.jpg)Another advantage of wooden houses is that, being built about 10-15 inches above the ground, they are protected from moisture coming up from the ground. (By the way, it is because japanese houses are raised above the ground that in Japanese, one does not say "come in", but "climb in" _o agari kudasai_ お上がり下さい when welcoming a host).
 

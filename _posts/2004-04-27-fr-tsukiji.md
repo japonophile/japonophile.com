@@ -19,6 +19,6 @@ Un marchand avec qui nous discutions nous a posé la devinette suivante: "Quel e
 
 ![Thon, a Tsukiji]({{ site.url }}{{ site.baseurl }}/images/2004/04/tsukijitsuna.jpg)
 
-Enfin, après avoir vu le marché (et fait vos achats), je vous conseille vivement d'aller prendre votre petit-déjeuner dans un des nombreux restaurants à _[sushi](http://www.japonophile.com/article_sushi_fr.html)_ des environs: vous pourrez y déguster du poisson d'une qualité inégalée.
+Enfin, après avoir vu le marché (et fait vos achats), je vous conseille vivement d'aller prendre votre petit-déjeuner dans un des nombreux restaurants à _[sushi]({% post_url 2004-04-28-fr-sushi %})_ des environs: vous pourrez y déguster du poisson d'une qualité inégalée.
 
 
